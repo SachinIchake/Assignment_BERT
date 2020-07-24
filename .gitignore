@@ -1,0 +1,9 @@
+.DS_Store
+build
+.git
+*.egg-info
+dist
+__pycache__
+.ipynb_checkpoints/
+input/data/train_with_new_features-Copy.csv
+input/
